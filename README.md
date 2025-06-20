@@ -1,6 +1,6 @@
 ![Alt text](typewriter.gif)
 # About me 👋
-- 🚀 Incoming Software Engineer that hopefully won't be homeless
+- 🚀 hopefully I can become a Software Engineer one day and not be homeless
 - 🎓 CS student @ UCSB :) 
 - 🌱 When I'm touching grass, I love running and filming fun videos
 
