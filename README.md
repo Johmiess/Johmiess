@@ -13,7 +13,7 @@
 - 📸 [Instagram](https://www.instagram.com/johmyang/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-yang-006769243/)
  
-Vistor count:![Visitor Count](https://profile-counter.glitch.me/{Johmiess}/count.svg)
+## Vistor count:![Visitor Count](https://profile-counter.glitch.me/{Johmiess}/count.svg)
 
 
 <!--
