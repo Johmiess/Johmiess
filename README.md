@@ -2,7 +2,7 @@
 # About me 👋
 - 🚀 hopefully I can become a Software Engineer one day and not be homeless
 - 🎓 CS student @ UCSB :) 
-- 🌱 When I'm touching grass, I love running and filming fun videos
+- 🌱 When touching grass, I love running and filming fun videos
 
 # What I'm up to
 - 🔥 Building some cool apps with my friends
@@ -12,6 +12,9 @@
 - 📧 Johnyang.school@gmail.com 
 - 📸 [Instagram](https://www.instagram.com/johmyang/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-yang-006769243/)
+
+![Visitor Count](https : //profile-counter.glitch.me/{Johmiess}/count.svg)
+
 <!--
 **Johmiess/Johmiess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
