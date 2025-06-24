@@ -2,7 +2,7 @@
 # About me 👋
 - 🚀 hopefully I can become a Software Engineer one day and not be homeless
 - 🎓 CS student @ UCSB :) 
-- 🌱 When touching grass, I love running and filming fun videos
+- 🌱 For touching grass related activites, I love running and filming fun videos
 
 # What I'm up to
 - 🔥 Building some cool apps with my friends
