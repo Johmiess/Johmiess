@@ -1,7 +1,7 @@
 ![Alt text](typewriter.gif)
 # About me 👋
 - 🚀 hopefully I can become a Software Engineer one day and not be homeless
-- 🎓 CS student
+- 🎓 CS student @ UCSB
 - 🌱 For touching grass related activites, I love running and filming fun videos
 
 # What I'm up to
