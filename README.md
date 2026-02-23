@@ -17,7 +17,6 @@
 <table>
   <tr>
     <td>Thanks for stopping by!</td>
-    <td><img src="https://profile-counter.glitch.me/{Johmiess}/count.svg" alt="" /></td>
   </tr>
 </table>
 
