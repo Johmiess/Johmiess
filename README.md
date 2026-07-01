@@ -1,25 +1,16 @@
 ![Alt text](typewriter.gif)
 # About me 👋
-- 🚀 hopefully I can become a Software Engineer one day and not be homeless
-- 🎓 CS student @ UCSB
+- CS student @ UCSB
 - 🌱 For touching grass related activites, I love running and filming fun videos
 
 # What I'm up to
-- 🔥 Building some cool apps with my friends
-- 📚 Grinding CS courses and filming some fun videos
+- Building some cool apps with my friends
+- Grinding CS courses and filming some fun videos
 
 # 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 - 📧 Johnyang.school@gmail.com 
-- 📸 [Instagram](https://www.instagram.com/johmyang/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-yang-006769243/)
  
-
-<table>
-  <tr>
-    <td>Thanks for stopping by!</td>
-  </tr>
-</table>
-
 
 
 <!--
